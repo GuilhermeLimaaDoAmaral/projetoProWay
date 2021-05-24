@@ -1,5 +1,5 @@
 from tkinter import *
-#from Gerenciador.lib.telainterface import *
+from Gerenciador.lib.telainterface import *
 from functools import partial
 
 def Cadastro(prNome: Entry, prMoedaOri: Entry, prMoedaDest: Entry, prDataOper: Entry, prValorOri: Entry,
